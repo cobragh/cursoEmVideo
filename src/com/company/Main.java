@@ -11,6 +11,5 @@ public class Main {
         note.ligar();
         note.status();
         note.jogar();
-
     }
 }
